@@ -69,6 +69,6 @@ function testClaseEdificio() {
 
 function main() {
   testClaseEdificio();
-  console.log("otro cambio");
+  console.log("vino otra persona y le metió este cambio");
 }
 main();
